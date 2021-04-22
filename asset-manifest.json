@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/covid/static/js/main.a882ac00.chunk.js",
+    "main.js.map": "/covid/static/js/main.a882ac00.chunk.js.map",
+    "runtime-main.js": "/covid/static/js/runtime-main.bc507c6e.js",
+    "runtime-main.js.map": "/covid/static/js/runtime-main.bc507c6e.js.map",
+    "static/js/2.16308b63.chunk.js": "/covid/static/js/2.16308b63.chunk.js",
+    "static/js/2.16308b63.chunk.js.map": "/covid/static/js/2.16308b63.chunk.js.map",
+    "index.html": "/covid/index.html",
+    "static/js/2.16308b63.chunk.js.LICENSE.txt": "/covid/static/js/2.16308b63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc507c6e.js",
+    "static/js/2.16308b63.chunk.js",
+    "static/js/main.a882ac00.chunk.js"
+  ]
+}
